@@ -18,7 +18,7 @@ function App() {
         <div className="row">
           <Sidebar />
 
-          <main className="col-md-10 p-4">
+          <main className="col-12 col-md-10 p-3 p-md-4">
             <Routes>
               <Route path="/" element={<Dashboard />} />
               <Route path="/products" element={<Products />} />
