@@ -36,3 +36,18 @@ body{
   }
 
 }
+.container-fluid {
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+main {
+  min-height: 100vh;
+}
